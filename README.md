@@ -261,7 +261,7 @@ Available at `/admin/` — all models are registered with rich list displays, fi
 
 ---
 
-## 🐳 Services (Docker Compose)
+## 🐳 Services (Docker Compose) 
 
 | Service | Port | Description |
 |---|---|---|
